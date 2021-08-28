@@ -1,11 +1,15 @@
 import React from "react";
 import * as S from "./styled";
 import Header from "../../Components/Header";
+import Form from "../../Components/Form";
+import Footer from "../../Components/Footer";
 
-export default function Home() {
+
+export default function Home() {  
   return (
     <>
       <Header />
+      
       <main>
         <S.Image>
           <S.Container>
@@ -27,7 +31,7 @@ export default function Home() {
           {/* Cards */}
           <S.JobsAreaWrapper>
             <S.JobAreasCard>
-              <i class="fas fa-desktop fa-3x"></i>
+              <i className="fas fa-desktop fa-3x"></i>
               <h3>
                 Frontend<span>.</span>
               </h3>
@@ -37,22 +41,23 @@ export default function Home() {
               </p>
             </S.JobAreasCard>
             <S.JobAreasCard>
-              <i class="fas fa-cogs fa-3x"></i>
+              <i className="fas fa-cogs fa-3x"></i>
               <h3>
                 Backend<span>.</span>
               </h3>
               <p>
                 Você vai trabalhar com tecnologias como: NodeJS, MongoDB,
-                Graphql, Express e muito outras tecnologias...
+                Graphql, Express e muitas outras...
               </p>
             </S.JobAreasCard>
             <S.JobAreasCard>
-              <i class="fas fa-swatchbook fa-3x"></i>
+              <i className="fas fa-swatchbook fa-3x"></i>
               <h3>
                 UX Design<span>.</span>
               </h3>
               <p>
-                Trabalhe com prototipagem, experiência do usúario, desenvolvimento de produtos e muito mais... 
+                Trabalhe com prototipagem, experiência do usúario,
+                desenvolvimento de produtos e muito mais...
               </p>
             </S.JobAreasCard>
           </S.JobsAreaWrapper>
@@ -62,17 +67,13 @@ export default function Home() {
             </h2>
             <h3>Trabalhe conosco</h3>
           </S.SectionHeader>
-          <div id="contact">
-            <form>
-              <label htmlFor="">Teste</label>
-              <label htmlFor="">Teste</label>
-              <label htmlFor="">Teste</label>
-              <label htmlFor="">Teste</label>
-              <label htmlFor="">Teste</label>
-            </form>
-          </div>
+          <section id="contact">
+            <Form />
+          </section>
         </S.Container>
-      </main>      
+      </main>
+
+      <Footer />
     </>
   );
 }

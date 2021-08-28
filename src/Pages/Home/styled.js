@@ -144,6 +144,5 @@ export const JobAreasCard = styled.div`
 
     @media screen and (max-width:700px) {
         width: 80vw;
-    }
-    
+    }    
 `;
