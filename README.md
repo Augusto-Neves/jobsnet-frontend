@@ -1,3 +1,7 @@
+## Antes de tudo o link para o Backend desse projeto
+- [Link para o Back-end do projeto](https://github.com/Augusto-Neves/jobsnet-backend)
+
+<br>
 <p align="center">
   <img src="https://img.shields.io/github/stars/Augusto-Neves/letmeask?label=stars&message=MIT&color=8257E5&labelColor=000000" alt="Stars">
 
@@ -16,9 +20,6 @@
 
 <br>
 
-## Antes de tudo o link para o Backend desse projeto
-**[Back-end](https://github.com/Augusto-Neves/jobsnet-backend)**
-
 ## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido durante a Start Tech Gama Academy usando as seguintes tecnologias:
@@ -32,6 +33,11 @@ Esse projeto foi desenvolvido durante a Start Tech Gama Academy usando as seguin
 - [react-hot-toast](https://react-hot-toast.com/)
 
 -Back-end
+- [Node](https://nodejs.org/)
+- [CORS](https://www.npmjs.com/package/cors)
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
+- [Swagger UI](https://swagger.io/)
 
 ## 🚀 Como executar
 Primeiro de tudo você precisa ter o `git`,`node` e `yarn` instalados na sua máquina.
