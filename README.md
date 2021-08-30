@@ -1,7 +1,3 @@
-
-## Antes de tudo o link para o Backend desse projeto
-**[Back-end](https://github.com/Augusto-Neves/jobsnet-backend)**
-
 <p align="center">
   <img src="https://img.shields.io/github/stars/Augusto-Neves/letmeask?label=stars&message=MIT&color=8257E5&labelColor=000000" alt="Stars">
 
@@ -19,6 +15,9 @@
 </h1>
 
 <br>
+
+## Antes de tudo o link para o Backend desse projeto
+**[Back-end](https://github.com/Augusto-Neves/jobsnet-backend)**
 
 ## 🧪 Tecnologias
 
