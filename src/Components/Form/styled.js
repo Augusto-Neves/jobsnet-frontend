@@ -52,4 +52,18 @@ export const FormWrapper = styled.div`
            color: #F6921D;
         }
     }
+
+    .btn {
+        background-color: #731E9A;
+        border: 0;
+        transition: .3s;
+
+        &:hover{
+            filter: brightness(0.9);
+        }
+    }
 `
+export const ErrorSpan = styled.span`
+  color: red;
+  display: ${(props) => props.isError ? 'block' : 'none'};
+`;
