@@ -1,5 +1,6 @@
 ## Antes de tudo o link para o Backend desse projeto
 - [Link para o Back-end do projeto](https://github.com/Augusto-Neves/jobsnet-backend)
+- [Link para onde o front-end está hospedado](https://jobsnet-frontend.vercel.app/)
 
 <br>
 <p align="center">
