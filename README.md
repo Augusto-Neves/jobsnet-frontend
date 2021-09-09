@@ -4,19 +4,19 @@
 
 <br>
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Augusto-Neves/letmeask?label=stars&message=MIT&color=8257E5&labelColor=000000" alt="Stars">
+  <img src="https://img.shields.io/github/stars/Augusto-Neves/jobsnet-frontend?label=stars&message=MIT&color=8257E5&labelColor=000000" alt="Stars">
 
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000" alt="License">   
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" src=".github/print1.png" />
+    <img alt="Jobsnet" src=".github/print1.png" />
 </h1>
 <h1 align="center">
-    <img alt="Letmeask" src=".github/print2.png" />
+    <img alt="Jobsnet" src=".github/print2.png" />
 </h1>
 <h1 align="center">
-    <img alt="Letmeask" src=".github/print3.png" />
+    <img alt="Jobsnet" src=".github/print3.png" />
 </h1>
 
 <br>
