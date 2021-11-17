@@ -51,7 +51,7 @@ $ cd jobsnet-frontend
 Para iniciá-lo, siga os passos abaixo:
 ```bash
 # Instalar as dependências
-$ yarn install
+$ yarn 
 
 # Iniciar o projeto
 $ yarn start
